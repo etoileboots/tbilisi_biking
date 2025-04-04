@@ -14,6 +14,6 @@ This repo serves as the living documentation of the Capstone projects, and is or
 3. data_abstraction
 4. data_analysis
 
-For a look into the tried, and ultimately removed parts of this project (such as ML classification of transit deserts, look at **failed_experements**.
+For a look into the tried, and ultimately removed parts of this project (such as ML classification of transit deserts, look at **failed_experiments**.
 
 The documentation of Mashiko's project can be seen under the **bike_modeling** folder. 
